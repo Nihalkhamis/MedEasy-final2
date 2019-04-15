@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MedEasy</string>
+    <string name="title_activity_syndr">SyndrActivity</string>
+    <string name="Alarm">Alarm</string>
+    <string name="please_select_time">Please Select Time</string>
+    <string name="st">sat</string>
+    <string name="sun">sun</string>
+    <string name="mon">mon</string>
+    <string name="tue">tue</string>
+    <string name="wed">wed</string>
+    <string name="thu">thu</string>
+    <string name="fri">fri</string>
+    <string name="Save">Save</string>
+    <string name="Home">Home</string>
+    <string name="pre">prescription</string>
+    <string name="Profile">Profile</string>
+    <string name="Cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
